@@ -1,0 +1,16 @@
+.DS_Store
+DerivedData/
+build/
+.build/
+*.xcuserstate
+xcuserdata/
+*.log
+AccessibilityTree.log
+MiniControl-self-test/
+AutoRun/logs/
+.tmp/
+temp/
+*.key
+*.pem
+id_rsa*
+id_ed25519*
